@@ -98,7 +98,7 @@
         "maxAddresses": 50,
         "mixin": 2,
         "priority": 0,
-        "transferFee": 100000,
+        "transferFee": 10000000,
         "dynamicTransferFee": true,
         "minerPayFee" : true,
         "minPayment": 10000000000,
